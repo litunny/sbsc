@@ -1,0 +1,8 @@
+/Users/mac/Projects/SBSC/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Users/mac/Projects/SBSC/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Users/mac/Projects/SBSC/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp3.1/Core.pdb

@@ -1,0 +1,4 @@
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp2.2/Core.csprojAssemblyReference.cache
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfoInputs.cache
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfo.cs
+/Users/mac/Projects/SBSC/Core/obj/Debug/netcoreapp2.2/Core.csproj.CoreCompileInputs.cache
